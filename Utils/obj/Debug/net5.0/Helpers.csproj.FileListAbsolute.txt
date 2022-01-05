@@ -1,0 +1,12 @@
+D:\softworks\AdventOfCode\Utils\bin\Debug\net5.0\Helpers.deps.json
+D:\softworks\AdventOfCode\Utils\bin\Debug\net5.0\Helpers.dll
+D:\softworks\AdventOfCode\Utils\bin\Debug\net5.0\ref\Helpers.dll
+D:\softworks\AdventOfCode\Utils\bin\Debug\net5.0\Helpers.pdb
+D:\softworks\AdventOfCode\Utils\obj\Debug\net5.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\softworks\AdventOfCode\Utils\obj\Debug\net5.0\Helpers.AssemblyInfoInputs.cache
+D:\softworks\AdventOfCode\Utils\obj\Debug\net5.0\Helpers.AssemblyInfo.cs
+D:\softworks\AdventOfCode\Utils\obj\Debug\net5.0\Helpers.csproj.CoreCompileInputs.cache
+D:\softworks\AdventOfCode\Utils\obj\Debug\net5.0\Helpers.dll
+D:\softworks\AdventOfCode\Utils\obj\Debug\net5.0\ref\Helpers.dll
+D:\softworks\AdventOfCode\Utils\obj\Debug\net5.0\Helpers.pdb
+D:\softworks\AdventOfCode\Utils\obj\Debug\net5.0\Helpers.csproj.AssemblyReference.cache
